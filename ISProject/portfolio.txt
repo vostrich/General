@@ -7,3 +7,4 @@ VintageAI; Wine quality prediction using chemical analysis models; Data Science;
 Scream Bird; Voice-controlled flappy chaos with clip sharing; Games, Audio; Alpha
 POS Retail Copilot; Mobile POS with AI pricing and promo suggestions; Retail, AI; Stealth
 MedImage AI; AI-powered medical image analysis and diagnosis support; Healthcare, ML; Lab
+New MedImage AI; AI-powered medical image analysis and diagnosis support; Healthcare, ML; Lab

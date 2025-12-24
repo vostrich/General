@@ -1,1 +1,9 @@
-
+NAME; DESCRIPTION; CATEGORY; TAGS; STATUS
+Quiet Crown; an Intellix Studio game. Power isn’t loud, it’s negotiated. Betrayal happens in silence; alliances and betrayals; Games, LLM; Live
+InventoryVision; CV shelf monitoring; stockout and misplacement alerts; Retail, CV; Lab
+ERP Copilot Lite; Approvals, anomaly summaries, and voice Q&A; Business, NLP; Alpha
+TravelBuddy; Social concierge with UGC and TripAdvisor trust scoring; Travel, AI; Alpha
+VintageAI; Wine quality prediction using chemical analysis models; Data Science; Live
+Scream Bird; Voice-controlled flappy chaos with clip sharing; Games, Audio; Alpha
+POS Retail Copilot; Mobile POS with AI pricing and promo suggestions; Retail, AI; Stealth
+MedImage AI; AI-powered medical image analysis and diagnosis support; Healthcare, ML; Lab
